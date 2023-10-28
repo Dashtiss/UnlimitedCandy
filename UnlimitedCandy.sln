@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnlimitedCandy", "UnlimitedCandy\UnlimitedCandy.csproj", "{3586B55B-13E0-4FC5-88AB-0C3A6514652A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3586B55B-13E0-4FC5-88AB-0C3A6514652A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3586B55B-13E0-4FC5-88AB-0C3A6514652A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3586B55B-13E0-4FC5-88AB-0C3A6514652A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3586B55B-13E0-4FC5-88AB-0C3A6514652A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59B69DDC-F1FB-4C09-8B52-F8F41B47D4D7}
+	EndGlobalSection
+EndGlobal
