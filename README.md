@@ -1,6 +1,6 @@
 # UnlimitedCandy Exiled Plugin
 
-UnlimitedCandy is an Exiled plugin designed to modify the interaction behavior with SCP-330 (the candy bowl) in the game SCP: Secret Laboratory. With this plugin, you can control the maximum number of candies that players can receive from SCP-330, allowing you to customize the gameplay experience.
+Unlimited Candy allows for configuration of how much candy a person can take.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -22,11 +22,11 @@ To install the UnlimitedCandy plugin, follow these steps:
    - Extract the plugin files from the release to your server's `Exiled/Plugins` directory.
    - Make sure the `UnlimitedCandy.dll` and any associated files are in the right location.
 
-4. **Configuration:**
-   - Navigate to the `Exiled/Configs` directory and edit the `UnlimitedCandy.yml` configuration file to customize the behavior of the plugin (see [Configuration](#configuration) for details).
+4. **Start or Restart Server:** Start or restart your SCP: Secret Laboratory server to load the plugin.
+5. 
+6. **Configuration:**
+   - Navigate to the `Exiled/Configs` directory and edit the `Config.yml` configuration file to customize the behavior of the plugin (see [Configuration](#configuration) for details).
    - Save the configuration file.
-
-5. **Start or Restart Server:** Start or restart your SCP: Secret Laboratory server to load the plugin.
 
 ## Usage
 
